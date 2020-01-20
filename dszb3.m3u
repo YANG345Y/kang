@@ -127,17 +127,15 @@ rtmp://58.200.131.2:1935/livetv/fhdy
 rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港台",Discovery
 rtmp://58.200.131.2:1935/livetv/discovery
-#EXTINF:-1 tvg-id="" tvg-name="BesTV4K" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="4K",BesTV 4K
-http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="4K",UHD 4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="4K",CCTV4K超高清频道
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港台",三立新闻台
 http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="港台",中视 HD
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="港台",中视HD
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港台",华视 HD
+#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港台",华视HD
 http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1 tvg-id="6068" tvg-name="年代新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ERANewsHD.png" group-title="港台",年代新闻
 http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
