@@ -159,3 +159,5 @@ http://vod.scjygd.com:1935/live/smil:xwzh_copy.smil/playlist.m3u8
 http://scdytv.com:1935/live/xwpd_livevideo/palylist.m3u8
 #EXTINF:-1 tvg-id="1969" tvg-name="绵竹新闻" tvg-language="Chinese" tvg-logo=" " tvg-country="CN" tvg-url="" group-title="本地频道",绵竹新闻综合
 http://pili-live-hls.66.i2863.com/i2863-66/live_66_404312.m3u8
+#EXTINF:-1 tvg-id="1969" tvg-name="绵阳综合" tvg-language="Chinese" tvg-logo=" " tvg-country="CN" tvg-url="" group-title="本地频道",绵阳综合
+http://61.157.136.102:6680/rtmp/myzh.m3u8
