@@ -31,6 +31,8 @@ http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8
 http://39.135.34.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy
 #EXTINF:-1 tvg-id="1969" tvg-name="绵阳综合" tvg-language="Chinese" tvg-logo=" " tvg-country="CN" tvg-url="" group-title="本地频道",绵阳综合
 http://61.157.136.102:6680/rtmp/myzh.m3u8
+#EXTINF:-1 tvg-id="1969" tvg-name="绵阳公共" tvg-language="Chinese" tvg-logo=" " tvg-country="CN" tvg-url="" group-title="本地频道",绵阳公共
+http://61.157.136.102:6680/rtmp/mygg.m3u8
 #EXTINF:-1 tvg-id="1969" tvg-name="安州综合" tvg-language="Chinese" tvg-logo=" " tvg-country="CN" tvg-url="" group-title="本地频道",安州综合
 http://60.255.137.43:1936/aztvch1/playlist.m3u8
 #EXTINF:-1 tvg-id="1968" tvg-name="江油新闻" tvg-language="Chinese" tvg-logo="http://imgsrc.baidu.com/forum/w%3D580/sign=558accff1230e924cfa49c397c096e66/174e510fd9f9d72a32dbc1ead92a2834359bbb88.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",江油新闻综合
