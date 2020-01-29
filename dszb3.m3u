@@ -33,8 +33,10 @@ http://39.135.34.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ys
 http://61.157.136.102:6680/rtmp/myzh.m3u8
 #EXTINF:-1 tvg-id="1969" tvg-name="安州综合" tvg-language="Chinese" tvg-logo=" " tvg-country="CN" tvg-url="" group-title="本地频道",安州综合
 http://60.255.137.43:1936/aztvch1/playlist.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-language="Chinese" tvg-logo="" group-title="",中国教育1台
-http://183.207.249.71/PLTV/3/224/3221225622/index.m3u8
+#EXTINF:-1 tvg-id="1968" tvg-name="江油新闻" tvg-language="Chinese" tvg-logo="http://imgsrc.baidu.com/forum/w%3D580/sign=558accff1230e924cfa49c397c096e66/174e510fd9f9d72a32dbc1ead92a2834359bbb88.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",江油新闻综合
+rtmp://vod.scjygd.com:1935/live/xwzh
+#EXTINF:-1 tvg-id="1968" tvg-name="江油文教" tvg-language="Chinese" tvg-logo="http://imgsrc.baidu.com/forum/w%3D580/sign=558accff1230e924cfa49c397c096e66/174e510fd9f9d72a32dbc1ead92a2834359bbb88.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",江油文化教育
+rtmp://vod.scjygd.com:1935/live/whjy
 #EXTINF:-1 tvg-id="" tvg-name="央视新闻" tvg-language="Chinese" tvg-logo="" group-title="",央视新闻
 http://cstvpull.live.wscdns.com/live/xiamen4.flv
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0331/20140331102521820.jpg" group-title="央视",CCTV-5+体育赛事
@@ -153,8 +155,6 @@ http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e16878a022c216b17975299a9ac369d
 https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 #EXTINF:-1 tvg-logo=“http://www.66zhibo.net/uploadfile/2014/0401/20140401014022533.jpg” group-title="专业频道", 中国天气频道
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
-#EXTINF:-1 tvg-id="1968" tvg-name="江油新闻" tvg-language="Chinese" tvg-logo="http://imgsrc.baidu.com/forum/w%3D580/sign=558accff1230e924cfa49c397c096e66/174e510fd9f9d72a32dbc1ead92a2834359bbb88.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",江油新闻综合
-http://vod.scjygd.com:1935/live/smil:xwzh_copy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1969" tvg-name="德阳新闻" tvg-language="Chinese" tvg-logo="http://img4.imgtn.bdimg.com/it/u=3938733888,502153286&fm=26&gp=0.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",德阳新闻频道
 http://scdytv.com:1935/live/xwpd_livevideo/palylist.m3u8
 #EXTINF:-1 tvg-id="1969" tvg-name="绵竹新闻" tvg-language="Chinese" tvg-logo=" " tvg-country="CN" tvg-url="" group-title="本地频道",绵竹新闻综合
