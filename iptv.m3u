@@ -1,15 +1,27 @@
-CCTV1 高清,http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
-CCTV2 高清,http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
-CCTV3 高清,http://125.210.152.18:9090/live/CCTV3HD_H265.m3u8
-CCTV4 高清,http://121.31.30.91:8081/ysten-business/live/cctv-4/1.m3u8
-CCTV5 高清,http://125.210.152.18:9090/live/CCTV5HD_H265.m3u8
-CCTV6 高清,http://125.210.152.18:9090/live/CCTV6HD_H265.m3u8
-CCTV7 高清,http://125.210.152.18:9090/live/CCTV7HD_H265.m3u8
-CCTV8 高清,http://125.210.152.18:9090/live/CCTV8HD_H265.m3u8
-CCTV9 高清,http://125.210.152.18:9090/live/CCTVJLHD_H265.m3u8
-CCTV10 高清,http://125.210.152.18:9090/live/CCTV10HD_H265.m3u8
-CCTV11 高清,http://121.31.30.91:8081/ysten-business/live/cctv-11/1.m3u8
-CCTV12 高清,http://125.210.152.18:9090/live/CCTV12HD_H265.m3u8
-CCTV13 标清,http://125.210.152.18:9090/live/CCTV13_750.m3u8
-CCTV14 高清,http://125.210.152.18:9090/live/CCTV14HD_H265.m3u8
-CCTV15 高清,http://121.31.30.91:8081/ysten-business/live/cctv-15/1.m3u8
+好莱坞电影,http://zszb.xyz/gtdy.php?id=HLWDY
+影迷电影,http://zszb.xyz/gtdy.php?id=YMDY
+龙祥时代电影,http://zszb.xyz/gtdy.php?id=LXSDDY
+卫视电影台,http://zszb.xyz/gtdy.php?id=WSDY
+壹电影,http://zszb.xyz/gtdy.php?id=YDY
+纬来电影,http://zszb.xyz/gtdy.php?id=WLDY
+东森电影,http://zszb.xyz/gtdy.php?id=DSDY
+东森洋片,http://zszb.xyz/gtdy.php?id=DSYP
+龙华电影,http://zszb.xyz/gtdy.php?id=LHDY
+龙华经典,http://zszb.xyz/gtdy.php?id=LHJD
+龙华洋片,http://zszb.xyz/gtdy.php?id=LHYP
+靖天映画,http://zszb.xyz/gtdy.php?id=QTYH
+靖天电影,http://zszb.xyz/gtdy.php?id=QTDY
+星卫HD电影,http://zszb.xyz/gtdy.php?id=XWDY
+美亚电影,http://zszb.xyz/gtdy.php?id=MYDY
+欧洲电影,http://zszb.xyz/gtdy.php?id=OUZDY
+卫视HD洋片,http://zszb.xyz/gtdy.php?id=WSYP
+福克斯电影,http://zszb.xyz/gtdy.php?id=FKSDY
+DIVA电影,http://zszb.xyz/gtdy.php?id=DIVADY
+Cinema World,http://zszb.xyz/gtdy.php?id=CinemaWorld
+CINEMAX电影,http://zszb.xyz/gtdy.php?id=CINEMAXDY
+CatchPlay电影,http://zszb.xyz/gtdy.php?id=CatchPlayDY
+FOX MOVIES,http://zszb.xyz/gtdy.php?id=FOXMOVIES
+HBO HD,http://zszb.xyz/gtdy.php?id=HBOHD
+HBO Hits,http://zszb.xyz/gtdy.php?id=HBOHits
+HBO Signature,http://zszb.xyz/gtdy.php?id=HBOSignature
+HBO Family,http://zszb.xyz/gtdy.php?id=HBOFamily
