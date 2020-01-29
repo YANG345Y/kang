@@ -37,8 +37,10 @@ http://60.255.137.43:1936/aztvch1/playlist.m3u8
 rtmp://vod.scjygd.com:1935/live/xwzh
 #EXTINF:-1 tvg-id="1968" tvg-name="江油文教" tvg-language="Chinese" tvg-logo="http://imgsrc.baidu.com/forum/w%3D580/sign=558accff1230e924cfa49c397c096e66/174e510fd9f9d72a32dbc1ead92a2834359bbb88.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",江油文化教育
 rtmp://vod.scjygd.com:1935/live/whjy
+#EXTINF:-1 tvg-id="1968" tvg-name="新加坡8频道" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="国外频道",新传媒8频道
+https://d34e90s3s13i7n.cloudfront.net:443/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="央视新闻" tvg-language="Chinese" tvg-logo="" group-title="",央视新闻
-http://cstvpull.live.wscdns.com/live/xiamen4.flv
+vjms://58.215.133.194:8500:3502/live/cid=348
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0331/20140331102521820.jpg" group-title="央视",CCTV-5+体育赛事
 http://39.135.34.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
