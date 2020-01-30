@@ -12,7 +12,7 @@ http://39.135.34.146:18890/000000001000/1000000001000004794/1.m3u8?channel-id=ys
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
 http://111.40.205.87/PLTV/88888888/224/3221225707/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事
-http://117.148.187.37/PLTV/88888888/224/3221226122/index.m3u8
+http://111.40.205.87/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
 http://39.135.34.154:18890/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000003736&owchid=ystenlive&owsid=1106497909461132718&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRKhIjYL3aRNrIf2qoTcK90Bd0oe1gvWxxvd9Qs9pkD5eKCeYPeHs2GppHtnd1klhd
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9记录
