@@ -131,7 +131,7 @@ rtmp://58.200.131.2:1935/livetv/chctv
 rtmp://58.200.131.2:1935/livetv/chcatv
 #EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="港台",凤凰卫视电影台
 rtmp://58.200.131.2:1935/livetv/fhdy
-#EXTINF:-1 tvg-id="511" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="港台",星空卫视
+#EXTINF:-1 tvg-id="264" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="港台",星空卫视
 rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="港台",中视HD
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
