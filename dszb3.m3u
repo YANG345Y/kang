@@ -58,7 +58,7 @@ http://39.135.34.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ys
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 http://118.123.60.201:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=10&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="184" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="卫视",四川经济
-http://60.255.149.208/tslive/c212_scc_20190617_ry4zkwol_original_r10/c212_scc_20190617_ry4zkwol_original_r10.m3u8
+http://m3u8.sctv.com/tvlive/SCTV3/index.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港台",香港卫视
 http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中视购物" tvg-logo=“https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=5613498c231f95caa6f595b0f12c1803/91529822720e0cf316d302090c46f21fbe09aa18.jpg” group-title="专业频道", 中视购物
