@@ -123,7 +123,7 @@ http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳亚卫视" tvg-language="Chinese" tvg-logo=" http://imgsrc.baidu.com/forum/w%3D580/sign=80be21db2c3fb80e0cd161df06d02ffb/68c8ba315c6034a8df88956bc61349540b2376db.jpg" tvg-country="CN" tvg-url="" group-title="港台",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cetv1.png" group-title="专业频道", 中国教育1台
+#EXTINF:-1 tvg-id="60" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cetv1.png" group-title="专业频道", 中国教育1台
 http://60.255.149.208/tslive/c213_scc_20190618_hckfiiqn_original_r10/c213_scc_20190618_hckfiiqn_original_r10.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="卫视",CHC高清电影
 http://60.255.149.208/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8
