@@ -141,7 +141,7 @@ http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
 http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港台",东森新闻台
 http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 tvg-id="6070" tvg-name="东森电影台" tvg-logo="https://yang345y.github.io/tu/DSDY.png" group-title="港台",东森电影台
+#EXTINF:-1 tvg-id="6070" tvg-name="东森电影台" tvg-logo="https://yang345y.github.io/tu/img/DSDY.png" group-title="港台",东森电影台
 http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港台",八大综合台
 http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
