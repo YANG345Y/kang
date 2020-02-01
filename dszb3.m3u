@@ -123,7 +123,7 @@ http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳亚卫视" tvg-language="Chinese" tvg-logo=" http://imgsrc.baidu.com/forum/w%3D580/sign=80be21db2c3fb80e0cd161df06d02ffb/68c8ba315c6034a8df88956bc61349540b2376db.jpg" tvg-country="CN" tvg-url="" group-title="港台",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo=“http://epg.51zmt.top:8000/tb1/qt/cetv1.png” group-title="专业频道", 中国教育1台
+#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cetv1.png" group-title="专业频道", 中国教育1台
 http://60.255.149.208/tslive/c213_scc_20190618_hckfiiqn_original_r10/c213_scc_20190618_hckfiiqn_original_r10.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="卫视",CHC高清电影
 http://60.255.149.208/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8
@@ -151,5 +151,5 @@ http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8a7d213b10550559a073db188d08d5f
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=98a5538384f14ca487ca96786a441bbe
 #EXTINF:-1 tvg-logo=“http://www.66zhibo.net/uploadfile/2014/0401/20140401014022533.jpg” group-title="专业频道", 中国天气频道
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
-#EXTINF:-1 tvg-id="1953" tvg-name="新传媒8频道" tvg-language="Chinese" tvg-logo="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=a5a1c6606b63f6241c5d3e05bf7f8cc5/fd039245d688d43fd02adcab7d1ed21b0ff43be3.jpg" tvg-country="CN" tvg-url="" group-title="国外频道",新传媒8频道
+#EXTINF:-1 tvg-name="新传媒8频道" tvg-language="Chinese" tvg-logo="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=a5a1c6606b63f6241c5d3e05bf7f8cc5/fd039245d688d43fd02adcab7d1ed21b0ff43be3.jpg" tvg-country="CN" tvg-url="" group-title="国外频道",新传媒8频道
 https://d34e90s3s13i7n.cloudfront.net:443/hls/ch8ctv/master02.m3u8
