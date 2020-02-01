@@ -37,14 +37,10 @@ http://60.255.149.208/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20
 http://61.157.136.102:6680/rtmp/myzh.m3u8
 #EXTINF:-1 tvg-id="1961" tvg-name="mygg" tvg-language="Chinese" tvg-logo="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1580287521&di=7e1cd456ce7f50c4be30599cfe9bf55e&src=http://gss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/f703738da97739120bc3f9b4ff198618377ae27a.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",绵阳公共
 http://61.157.136.102:6680/rtmp/mygg.m3u8
-#EXTINF:-1 tvg-id="1969" tvg-name="安州综合" tvg-language="Chinese" tvg-logo=" " tvg-country="CN" tvg-url="" group-title="本地频道",安州综合
-http://60.255.137.43:1936/aztvch1/playlist.m3u8
 #EXTINF:-1 tvg-id="1968" tvg-name="江油新闻" tvg-language="Chinese" tvg-logo="http://imgsrc.baidu.com/forum/w%3D580/sign=558accff1230e924cfa49c397c096e66/174e510fd9f9d72a32dbc1ead92a2834359bbb88.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",江油新闻综合
 rtmp://vod.scjygd.com:1935/live/xwzh
 #EXTINF:-1 tvg-id="1967" tvg-name="江油文教" tvg-language="Chinese" tvg-logo="http://imgsrc.baidu.com/forum/w%3D580/sign=558accff1230e924cfa49c397c096e66/174e510fd9f9d72a32dbc1ead92a2834359bbb88.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",江油文化教育
 rtmp://vod.scjygd.com:1935/live/whjy
-#EXTINF:-1 tvg-id="1964" tvg-name="德阳新闻" tvg-language="Chinese" tvg-logo="http://img4.imgtn.bdimg.com/it/u=3938733888,502153286&fm=26&gp=0.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",德阳新闻频道
-http://scdytv.com:1935/live/xwpd_livevideo/palylist.m3u8
 #EXTINF:-1 tvg-id="1965" tvg-name="绵竹新闻" tvg-language="Chinese" tvg-logo=" " tvg-country="CN" tvg-url="" group-title="本地频道",绵竹新闻综合
 http://pili-live-hls.66.i2863.com/i2863-66/live_66_404312.m3u8
 #EXTINF:-1 tvg-id="1932" tvg-name="BCTV1" tvg-logo="http://img2.ccsxtv.com/160/74/4684e5fe-72ca-4060-ba58-7b7c34a6acc6.png" group-title="本地频道",北川新闻综合
@@ -121,7 +117,7 @@ http://39.135.34.154:18890/000000001000/1000000002000009263/1.m3u8?channel-id=ys
 http://39.135.34.145:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000003169&owchid=ystenlive&owsid=1106497909461328035&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhEobBU2fUvDIVr2YUAB3sQC3mtTDqCyM2IHfZcfgwbCVw3In3iCPMx3CBGKKivBM4
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
 http://39.135.34.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台",凤凰卫视中文台HD
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台",凤凰卫视中文台
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰卫视资讯台
 http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
@@ -137,9 +133,9 @@ http://60.255.149.208/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20
 http://60.255.149.208/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8
 #EXTINF:-1 tvg-id="268" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="港台",星空卫视
 rtmp://58.200.131.2:1935/livetv/startv
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="港台",中视HD
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="港台",CTV中视HD
 http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港台",华视HD
+#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港台",CTS华视HD
 http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港台",中天综合台
 http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
