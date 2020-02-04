@@ -29,13 +29,13 @@ http://39.135.34.142:18890/000000001000/1000000002000021303/1.m3u8?channel-id=ys
 http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
 http://39.135.34.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
-http://111.40.205.87/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="http://www.tvyan.com/uploads/dianshi/cgtnnews.jpg" group-title="央视",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清
 http://60.255.149.208/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8
-#EXTINF:-1 tvg-name="绵阳综合" tvg-language="Chinese" tvg-logo="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1580287521&di=7e1cd456ce7f50c4be30599cfe9bf55e&src=http://gss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/f703738da97739120bc3f9b4ff198618377ae27a.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",绵阳综合
+#EXTINF:-1 tvg-name="绵阳综合" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/mytv1.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",绵阳综合
 http://61.157.136.102:6680/rtmp/myzh.m3u8
-#EXTINF:-1 tvg-name="绵阳公共" tvg-language="Chinese" tvg-logo="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1580287521&di=7e1cd456ce7f50c4be30599cfe9bf55e&src=http://gss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/f703738da97739120bc3f9b4ff198618377ae27a.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",绵阳公共
+#EXTINF:-1 tvg-name="绵阳公共" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/mytv2.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",绵阳公共
 http://61.157.136.102:6680/rtmp/mygg.m3u8
 #EXTINF:-1 tvg-name="江油新闻" tvg-language="Chinese" tvg-logo="http://imgsrc.baidu.com/forum/w%3D580/sign=558accff1230e924cfa49c397c096e66/174e510fd9f9d72a32dbc1ead92a2834359bbb88.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",江油新闻综合
 rtmp://vod.scjygd.com:1935/live/xwzh
@@ -51,21 +51,21 @@ http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstok
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
 http://39.135.34.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/sichuantv.jpg" group-title="卫视",四川卫视
 http://118.123.60.201:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=10&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-id="184" tvg-name="SCTV3" tvg-logo="https://img.tvsou.com/zm/d/dd/dd2/dd24e6a3bcf0/zm800-0.png" group-title="卫视",四川经济
+#EXTINF:-1 tvg-id="184" tvg-name="SCTV3" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv3.jpg" group-title="卫视",四川经济
 http://60.255.149.208/tslive/c212_scc_20190617_ry4zkwol_original_r10/c212_scc_20190617_ry4zkwol_original_r10.m3u8
-#EXTINF:-1 tvg-id="185" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="卫视",四川新闻资讯
+#EXTINF:-1 tvg-id="185" tvg-name="SCTV4" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv4.jpg" group-title="卫视",四川新闻资讯
 http://60.255.149.208/tslive/c211_scc_20190618_o4cr4fzk_original_r10/c211_scc_20190618_o4cr4fzk_original_r10.m3u8
-#EXTINF:-1 tvg-id="186" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="卫视",四川影视文化
+#EXTINF:-1 tvg-id="186" tvg-name="SCTV5" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv5.jpg" group-title="卫视",四川影视文化
 http://60.255.149.208/tslive/c212_scc_20190618_eqfvkj53_original_r10/c212_scc_20190618_eqfvkj53_original_r10.m3u8
-#EXTINF:-1 tvg-id="187" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="卫视",四川妇女儿童
+#EXTINF:-1 tvg-id="187" tvg-name="SCTV7" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv7.jpg" group-title="卫视",四川妇女儿童
 http://60.255.149.208/tslive/c213_scc_20190618_giaorvjb_original_r10/c213_scc_20190618_giaorvjb_original_r10.m3u8
-#EXTINF:-1 tvg-id="189" tvg-name="SCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv9.png" group-title="卫视",四川公共
+#EXTINF:-1 tvg-id="189" tvg-name="SCTV9" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv9.jpg" group-title="卫视",四川公共
 http://60.255.149.208/tslive/c214_scc_20190618_zg1qrd4w_original_r10/c214_scc_20190618_zg1qrd4w_original_r10.m3u8
-#EXTINF:-1 tvg-id="190" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="卫视",四川科教
+#EXTINF:-1 tvg-id="190" tvg-name="SCTV8" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv8.jpg" group-title="卫视",四川科教
 http://60.255.149.208/tslive/c211_scc_20190618_3yrf3z1p_original_r10/c211_scc_20190618_3yrf3z1p_original_r10.m3u8
-#EXTINF:-1 tvg-id="188" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SCTV8.png" group-title="卫视",四川峨眉电影
+#EXTINF:-1 tvg-id="188" tvg-name="峨嵋电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/emeidianying.jpg" group-title="卫视",四川峨眉电影
 http://60.255.149.208/tslive/c212_scc_20190618_5nvsifwn_original_r10/c212_scc_20190618_5nvsifwn_original_r10.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港台",香港卫视
 http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
@@ -143,6 +143,8 @@ http://60.255.149.208/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20
 http://60.255.149.208/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20190618_q0ktot1t_original_r10.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="卫视",CHC动作电影
 http://60.255.149.208/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8
+#EXTINF:-1 tvg-name="莲花卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/lotustv.jpg" group-title="卫视",莲花卫视
+http://live-rtmp.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="港台",中视HD
 http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港台",华视HD
@@ -159,5 +161,5 @@ http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8a7d213b10550559a073db188d08d5f7
 #EXTINF:-1 tvg-id="1955" tvg-name="DOX映" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="DOX",DOX 映画
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=98a5538384f14ca487ca96786a441bbe
-#EXTINF:-1 tvg-name="中国气象频道" tvg-logo=“http://www.66zhibo.net/uploadfile/2014/0401/20140401014022533.jpg” group-title="专业频道", 中国天气频道
+#EXTINF:-1 tvg-name="中国气象频道" tvg-logo=“http://www.tvyan.com/uploads/dianshi/zgqxpd.jpg” group-title="专业频道", 中国天气频道
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
