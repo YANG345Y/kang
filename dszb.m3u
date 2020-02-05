@@ -169,6 +169,8 @@ http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 tvg-id="318" tvg-name="东森电影台" tvg-logo="http://www.tvyan.com/uploads/dianshi/etmovie.jpg" group-title="港台",东森电影台
 http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:-1 tvg-id="310" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港台",中天新闻台
+http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:-1 tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港台",八大综合台
 http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 tvg-id="1943" tvg-name="DOXTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="DOX",DOXTV
