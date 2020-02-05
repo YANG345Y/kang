@@ -55,6 +55,8 @@ http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 http://39.135.34.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/sichuantv.jpg" group-title="卫视",四川卫视
 http://118.123.60.201:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=10&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 tvg-name="SCTV2" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv2.jpg" group-title="卫视",四川文化旅游
+http://60.255.48.132:8060/live/sctv2hd_1200.m3u8?p=5&v=2&n=sctv2hd_1200&t=WisdomWorld&u=freeuser&pid=&cid=79&d=WisdomWorldPc&errorcode=0&sid=f2AMgEsDOtuwO6J2K6KfoA==&r=20200205140948&e=20200205190953&nc=0U5oIYu6Cfig&a=7&errorReason=0&pd=60&ip=10.215.32.130&l=610000
 #EXTINF:-1 tvg-id="184" tvg-name="SCTV3" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv3.jpg" group-title="卫视",四川经济
 http://60.255.149.208/tslive/c212_scc_20190617_ry4zkwol_original_r10/c212_scc_20190617_ry4zkwol_original_r10.m3u8
 #EXTINF:-1 tvg-id="185" tvg-name="SCTV4" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv4.jpg" group-title="卫视",四川新闻频道
