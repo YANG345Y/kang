@@ -33,10 +33,12 @@ http://39.135.34.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ys
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清
 http://60.255.149.208/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8
-#EXTINF:-1 tvg-name="绵阳综合" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/mytv1.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",绵阳综合
+#EXTINF:-1 tvg-name="绵阳综合" tvg-language="Chinese" tvg-logo="http://www.66zhibo.net/d/file/2018/0725/small02aa1a75d5506089945702a559f99353.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",绵阳综合
 http://61.157.136.102:6680/rtmp/myzh.m3u8
 #EXTINF:-1 tvg-name="绵阳公共" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/mytv2.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",绵阳公共
 http://61.157.136.102:6680/rtmp/mygg.m3u8
+#EXTINF:-1 tvg-name="绵阳科技" tvg-language="Chinese" tvg-logo="http://www.66zhibo.net/d/file/2018/0725/small9620b4e50bfa87af34c986e8d2da3601.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",绵阳科技
+http://61.157.136.102:6680/rtmp/mykj.m3u8
 #EXTINF:-1 tvg-name="江油新闻" tvg-language="Chinese" tvg-logo="http://imgsrc.baidu.com/forum/w%3D580/sign=558accff1230e924cfa49c397c096e66/174e510fd9f9d72a32dbc1ead92a2834359bbb88.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",江油新闻综合
 rtmp://vod.scjygd.com:1935/live/xwzh
 #EXTINF:-1 tvg-name="江油文教" tvg-language="Chinese" tvg-logo="http://imgsrc.baidu.com/forum/w%3D580/sign=558accff1230e924cfa49c397c096e66/174e510fd9f9d72a32dbc1ead92a2834359bbb88.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",江油文化教育
