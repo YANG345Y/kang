@@ -30,7 +30,7 @@ http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
 http://39.135.34.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="http://www.tvyan.com/uploads/dianshi/cgtnnews.jpg" group-title="央视",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
+http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 #EXTINF:-1 tvg-name="新华社中文" tvg-logo="http://www.tvyan.com/uploads/dianshi/cnc.jpg" group-title="专业频道",新华网络电视中文台
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清
@@ -88,7 +88,7 @@ http://39.135.34.143:18890/000000001000/1000000001000030202/1.m3u8?channel-id=ys
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/xiamentv.jpg" group-title="卫视",厦门卫视
 http://cstvpull.live.wscdns.com/live/xiamen.flv
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
-http://111.40.205.87/PLTV/88888888/224/3221225727/index.m3u8
+http://39.135.32.39:6610/000000001000/1000000001000020780/index.m3u8?
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://39.135.34.140:18890/000000001000/8467838254824392379/1.m3u8?channel-id=ystenlive&Contentid=8467838254824392379&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=8467838254824392379&owchid=ystenlive&owsid=1106497909461358444&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5eLzTptYlaHwBbi5jFcfGGajSKACYh%2bxMIkH12jcM41WvzLTRYworzrZ3FKkyeJf%2fWTgBHYgXtjL76Tybav9u%2b
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
@@ -100,7 +100,7 @@ http://39.135.34.155:18890/000000001000/1000000001000028357/1.m3u8?channel-id=ys
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://112.17.40.140/PLTV/88888888/224/3221226488/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
-http://111.40.205.87/PLTV/88888888/224/3221225639/index.m3u8
+http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/bingtuantv.jpg" group-title="卫视",兵团卫视
 http://112.17.40.140/PLTV/88888888/224/3221226186/index.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
@@ -110,7 +110,7 @@ http://39.135.34.142:18890/000000001000/1000000001000012807/1.m3u8?channel-id=ys
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://39.135.34.150:18890/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000018937&owchid=ystenlive&owsid=1106497909461333042&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUG5grAC0rFEDUfNPlNhZzLoghzkGon0cjoqXWi7%2bGPbWnsToB9Z5BcGamUzvzuTi
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
-http://123.163.119.21:9602/live/live1/500K/tzwj_video.m3u8?KEY
+http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://39.135.34.139:18890/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000007495&owchid=ystenlive&owsid=1106497909461393057&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhC1U23M2CL94H7Jl9UsXCcDV0kHzvpufT%2f4%2bgoUc31ou2LTka7qAY0hPTMutW5mQ%2b
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
