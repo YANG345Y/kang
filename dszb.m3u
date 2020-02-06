@@ -58,7 +58,7 @@ http://39.135.34.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ys
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://tv.sason.xyz/logo/scws.png" group-title="卫视",四川卫视
 http://118.123.60.201:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=10&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-name="SCTV2" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv2.jpg" group-title="卫视",四川文化旅游
-http://60.255.48.132:8060/live/sctv2hd_1200.m3u8?p=5&v=2&n=sctv2hd_1200&t=WisdomWorld&u=freeuser&pid=&cid=79&d=WisdomWorldPc&errorcode=0&sid=f2AMgEsDOtuwO6J2K6KfoA==&r=20200205140948&e=20200205190953&nc=0U5oIYu6Cfig&a=7&errorReason=0&pd=60&ip=10.215.32.130&l=610000
+http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190617_ubvkckj4_original_r10/c211_scc_20190617_ubvkckj4_original_r10.m3u8
 #EXTINF:-1 tvg-id="184" tvg-name="SCTV3" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv3.jpg" group-title="卫视",四川经济
 http://60.255.149.208/tslive/c212_scc_20190617_ry4zkwol_original_r10/c212_scc_20190617_ry4zkwol_original_r10.m3u8
 #EXTINF:-1 tvg-id="185" tvg-name="SCTV4" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv4.jpg" group-title="卫视",四川新闻频道
