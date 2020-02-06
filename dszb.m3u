@@ -34,6 +34,8 @@ http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清
 http://60.255.149.208/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzxt.jpg" group-title="港台",凤凰卫视资讯台
+http://liveali.ifeng.com/live/FHZX.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://tv.sason.xyz/logo/scws.png" group-title="卫视",四川卫视
 http://118.123.60.201:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=10&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-name="绵阳综合" tvg-language="Chinese" tvg-logo="http://www.66zhibo.net/d/file/2018/0725/small02aa1a75d5506089945702a559f99353.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",绵阳综合
@@ -148,8 +150,6 @@ http://39.135.34.145:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ys
 http://111.40.205.87/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzwt.jpg" group-title="港台",凤凰卫视中文台
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzxt.jpg" group-title="港台",凤凰卫视资讯台
-http://liveali.ifeng.com/live/FHZX.m3u8
 #EXTINF:-1 tvg-name="澳亚卫视" tvg-language="Chinese" tvg-logo=" http://imgsrc.baidu.com/forum/w%3D580/sign=80be21db2c3fb80e0cd161df06d02ffb/68c8ba315c6034a8df88956bc61349540b2376db.jpg" tvg-country="CN" tvg-url="" group-title="港台",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 tvg-id="322" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="港台",好莱坞电影台
