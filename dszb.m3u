@@ -146,7 +146,7 @@ http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台",凤凰卫视中文台
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰卫视资讯台
-http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+http://liveali.ifeng.com/live/FHZX.m3u8
 #EXTINF:-1 tvg-name="澳亚卫视" tvg-language="Chinese" tvg-logo=" http://imgsrc.baidu.com/forum/w%3D580/sign=80be21db2c3fb80e0cd161df06d02ffb/68c8ba315c6034a8df88956bc61349540b2376db.jpg" tvg-country="CN" tvg-url="" group-title="港台",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cetv1.png" group-title="专业频道", 中国教育1台
