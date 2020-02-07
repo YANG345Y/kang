@@ -11,21 +11,21 @@ http://39.135.34.146:18890/000000001000/1000000001000004794/1.m3u8?channel-id=ys
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
 http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=093&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事
-http://111.40.205.87/PLTV/88888888/224/3221225733/index.m3u8
+http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/2000510003.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
 http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=096&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9记录
-http://39.135.34.145:18890/000000001000/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000014583&owchid=ystenlive&owsid=1106497909461138654&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRh3XYVWmjehcJ6eeMnvhxAUHggQtCK8Xdm86HMC53JU75N56tG8kTzA%2fMocL0w%2bEi
+http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/2000499403.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教
-http://111.40.205.87/PLTV/88888888/224/3221225730/index.m3u8
+http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/2000203503.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲
 http://117.148.187.37/PLTV/88888888/224/3221226219/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
-http://111.40.205.87/PLTV/88888888/224/3221225731/index.m3u8
+http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/2000204103.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
 http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
-http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8
+http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/2000204403.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
 http://39.135.34.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="http://www.tvyan.com/uploads/dianshi/cgtnnews.jpg" group-title="央视",中国环球电视网CGTN
@@ -33,7 +33,7 @@ http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 #EXTINF:-1 tvg-name="新华社中文" tvg-logo="http://www.tvyan.com/uploads/dianshi/cnc.jpg" group-title="专业频道",新华网络电视中文台
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清
-http://60.255.149.208/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8
+http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/2000266303.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzxt.jpg" group-title="港台",凤凰卫视资讯台
 http://liveali.ifeng.com/live/FHZX.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://tv.sason.xyz/logo/scws.png" group-title="卫视",四川卫视
@@ -51,21 +51,21 @@ http://60.255.149.208/tslive/c212_scc_20190618_lmuyu0su_original_r10/c212_scc_20
 #EXTINF:-1 tvg-id="88" tvg-name="怀旧剧场" tvg-language="Chinese" tvg-logo="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=d5d4c88824f5e0feee188e07645b5395/a8014c086e061d952fb0f0a972f40ad163d9caa9.jpg" group-title="",怀旧剧场
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000089.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0331/20140331102521820.jpg" group-title="央视",CCTV-5+体育赛事
-http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/2000204503.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
 http://39.135.34.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
 #EXTINF:-1 tvg-name="SCTV2" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv2.jpg" group-title="本地频道",四川文化旅游
 http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190617_ubvkckj4_original_r10/c211_scc_20190617_ubvkckj4_original_r10.m3u8
 #EXTINF:-1 tvg-id="183" tvg-name="SCTV3" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv3.jpg" group-title="本地频道",四川经济
-http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=064&Provider_id=&Pcontent_id=index.m3u8
+http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190617_ry4zkwol_original_r10/c212_scc_20190617_ry4zkwol_original_r10.m3u8
 #EXTINF:-1 tvg-id="184" tvg-name="SCTV4" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv4.jpg" group-title="本地频道",四川新闻频道
 http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=07&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="185" tvg-name="SCTV5" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv5.jpg" group-title="本地频道",四川影视文艺
-http://118.123.60.17:8112/syhjcms_hls/10000100000000050000000000000081
+http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
 #EXTINF:-1 tvg-id="186" tvg-name="SCTV7" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv7.jpg" group-title="本地频道",四川妇女儿童
-http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=08&Provider_id=&Pcontent_id=index.m3u8
+http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
 #EXTINF:-1 tvg-id="188" tvg-name="SCTV9" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv9.jpg" group-title="本地频道",四川公共乡村
-http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=063&Provider_id=&Pcontent_id=index.m3u8
+http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 #EXTINF:-1 tvg-id="189" tvg-name="SCTV8" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv8.jpg" group-title="本地频道",四川科教
 http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=020&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="187" tvg-name="峨嵋电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/emeidianying.jpg" group-title="本地",四川峨眉电影
@@ -87,9 +87,9 @@ http://60.255.149.208/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://39.135.34.146:18890/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009806&owchid=ystenlive&owsid=1106497909461218392&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRt6tuEx40ruFSJnrbh2BVWwXsEFuvV04XsE9ZOm50Z8cpDzo0JrXSxYrVj73IVRt9
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
-http://118.123.60.17:8112/syhjcms_hls/10000100000000050000000000000075
+http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/2000295603.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
-http://118.123.60.17:8112/syhjcms_hls/10000100000000050000000000000077
+http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/2000292403.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/xiamentv.jpg" group-title="卫视",厦门卫视
 http://cstvpull.live.wscdns.com/live/xiamen.flv
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
