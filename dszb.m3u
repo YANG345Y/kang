@@ -149,7 +149,7 @@ http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hl
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
 http://111.40.205.87/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzwt.jpg" group-title="港台",凤凰卫视中文台
-http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
+http://liveali.ifeng.com/live/FHZW.m3u8
 #EXTINF:-1 tvg-name="澳亚卫视" tvg-language="Chinese" tvg-logo=" http://imgsrc.baidu.com/forum/w%3D580/sign=80be21db2c3fb80e0cd161df06d02ffb/68c8ba315c6034a8df88956bc61349540b2376db.jpg" tvg-country="CN" tvg-url="" group-title="港台",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 tvg-id="322" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="港台",好莱坞电影台
