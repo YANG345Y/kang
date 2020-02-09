@@ -145,7 +145,7 @@ http://39.135.34.158:18890/000000001000/1000000001000013731/1.m3u8?channel-id=ys
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://tv.sason.xyz/logo/dnws.png" group-title="卫视",福建东南卫视
 http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
-http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=014&Provider_id=&Pcontent_id=index.m3u8
+http://39.135.34.150:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
 http://111.40.205.87/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzwt.jpg" group-title="港台",凤凰卫视中文台
