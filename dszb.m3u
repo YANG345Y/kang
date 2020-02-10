@@ -92,6 +92,8 @@ http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_wazeadpo_original_r10/c2
 http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_5hqsk5u4_original_r10/c211_scc_20190618_5hqsk5u4_original_r10.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/xiamentv.jpg" group-title="卫视",厦门卫视
 http://cstvpull.live.wscdns.com/live/xiamen.flv
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://tv.sason.xyz/logo/scws.png" group-title="卫视",四川卫视-标清
+http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=068&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
