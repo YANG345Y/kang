@@ -162,8 +162,8 @@ http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1 tvg-id="313" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港台",TVBS
 http://341697390.r.fdccdn.net/live/tw_tvbs.m3u8
-#EXTINF:-1 tvg-id="394" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E6%B0%91%E8%A7%86.png" group-title="港台",民视HD
-http://341697390.r.fdccdn.net/live/tw_minshi_hd.m3u8
+#EXTINF:-1 tvg-id="315" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="港台",非凡新闻台
+http://341697390.r.fdccdn.net/live/tw_feifanxinwen.m3u8
 #EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港台",中天综合台
 http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://www.tvyan.com/uploads/dianshi/etnews.jpg" group-title="港台",东森新闻台
