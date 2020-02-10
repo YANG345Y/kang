@@ -68,7 +68,7 @@ http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
 http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 #EXTINF:-1 tvg-id="189" tvg-name="SCTV8" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv8.jpg" group-title="本地频道",四川科教
 http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_3yrf3z1p_original_r10/c211_scc_20190618_3yrf3z1p_original_r10.m3u8
-#EXTINF:-1 tvg-id="187" tvg-name="峨嵋电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/emeidianying.jpg" group-title="本地",四川峨眉电影
+#EXTINF:-1 tvg-id="187" tvg-name="峨嵋电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/emeidianying.jpg" group-title="本地频道",峨眉电影
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://www.tvyan.com/uploads/dianshi/hkstv.jpg" group-title="港台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -164,13 +164,13 @@ http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
 http://341697390.r.fdccdn.net/live/tw_tvbs.m3u8
 #EXTINF:-1 tvg-id="315" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="港台",非凡新闻台
 http://341697390.r.fdccdn.net/live/tw_feifanxinwen.m3u8
-#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港台",中天综合台
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港台",中天综合
 http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://www.tvyan.com/uploads/dianshi/etnews.jpg" group-title="港台",东森新闻台
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://www.tvyan.com/uploads/dianshi/etnews.jpg" group-title="港台",东森新闻
 http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 tvg-id="318" tvg-name="东森电影台" tvg-logo="http://www.tvyan.com/uploads/dianshi/etmovie.jpg" group-title="港台",东森电影台
+#EXTINF:-1 tvg-id="318" tvg-name="东森电影台" tvg-logo="http://www.tvyan.com/uploads/dianshi/etmovie.jpg" group-title="港台",东森电影
 http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-#EXTINF:-1 tvg-id="310" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港台",中天新闻台
+#EXTINF:-1 tvg-id="310" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港台",中天新闻
 http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:-1 tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港台",八大综合台
 http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
@@ -178,9 +178,9 @@ http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8a7d213b10550559a073db188d08d5f7
 #EXTINF:-1 tvg-id="1955" tvg-name="DOX映" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="电影",DOX雅趣
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=98a5538384f14ca487ca96786a441bbe
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="电影",电影轮播——灾难系列
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="电影",电影轮播——灾难
 https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="电影",电影轮播——金庸系列
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="电影",电影轮播——金庸
 https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="电影",NewTV惊悚悬疑电影
+#EXTINF:-1 tvg-name="" tvg-logo="http://imgs.chinaott.net/wp-content/uploads/2017/12/2016651637318369196.png" group-title="电影",NewTV惊悚悬疑
 http://39.135.34.150:18890/000000001000/7151256057701199617/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617
