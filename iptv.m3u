@@ -23,7 +23,7 @@ http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_nohp5ial_original_r10/c2
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
 http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_afsgxiaq_original_r10/c214_scc_20190618_afsgxiaq_original_r10.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
-http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190617_igue0laq_original_r10/c213_scc_20190617_igue0laq_original_r10.m3u8
+http://39.135.34.150:18890/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
 http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/2000204403.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
