@@ -54,8 +54,8 @@ rtmp://vod.scjygd.com:1935/live/xwzh
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000048.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="http://www.storymedia.com.cn/Public/img/main_logo.png" group-title="中数",老故事频道
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000119.m3u8
-#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://dss1.baidu.com/70cFfyinKgQFm2e88IuM_a/forum/pic/item/f11f3a292df5e0fee8ac99f65e6034a85fdf7294.jpg" group-title="中数",书画频道
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000125.m3u8
+#EXTINF:-1 tvg-name="安徽国际" tvg-logo="" group-title="中数",安徽国际
+http://zbbf2.ahtv.cn/live/dab.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="http://hq.ioioz.com/d/file/2015/1121/20151121055049793.jpg" group-title="",风云剧场频道
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000047.m3u8
 #EXTINF:-1 tvg-name="SCTV2" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv2.jpg" group-title="本地频道",四川文化旅游
@@ -113,7 +113,9 @@ http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hl
 #EXTINF:-1 tvg-id="29" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://118.123.60.201:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=84&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="http://tv.sason.xyz/logo/btws.png" group-title="卫视",兵团卫视
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000074.m3u8
+http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d52a2834349b033b8505a1cd1ace36d3d539bd1c?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="卫视",农林卫视
+http://stream.snrtv.com/sxtvs-nl.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://tv.sason.xyz/logo/hubws.png"" group-title="卫视",湖北卫视
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000144.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
@@ -133,7 +135,7 @@ http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstok
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000049.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
-http://118.123.60.201:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=80&Provider_id=&Pcontent_id=index.m3u8
+http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
 http://39.135.34.138:18890/000000001000/1000000002000014080/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
