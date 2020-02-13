@@ -50,9 +50,9 @@ http://61.157.136.102:6680/rtmp/mykj.m3u8
 rtmp://vod.scjygd.com:1935/live/xwzh
 #EXTINF:-1 tvg-id="88" tvg-name="怀旧剧场" tvg-language="Chinese" tvg-logo="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=d5d4c88824f5e0feee188e07645b5395/a8014c086e061d952fb0f0a972f40ad163d9caa9.jpg" group-title="",怀旧剧场频道
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000089.m3u8
-#EXTINF:-1 tvg-name="老故事" tvg-logo="http://www.storymedia.com.cn/Public/img/main_logo.png" group-title="中数",老故事频道
+#EXTINF:-1 tvg-name="老故事" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvlgs.jpg" group-title="中数",老故事频道
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000119.m3u8
-#EXTINF:-1 tvg-name="DOXTV" tvg-logo="https://dss1.baidu.com/70cFfyinKgQFm2e88IuM_a/forum/pic/item/f11f3a292df5e0fee8ac99f65e6034a85fdf7294.jpg" group-title="中数",DOXTV
+#EXTINF:-1 tvg-name="DOXTV" tvg-logo="https://zhengxin-pub.bj.bcebos.com/logopic/db44d5e3e233555e058a34765fece216_fullsize.jpg" group-title="上视",DOXTV
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000078.m3u8
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/liyuanpindao.jpg" group-title="",梨园频道
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000098.m3u8
