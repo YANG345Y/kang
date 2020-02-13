@@ -54,8 +54,8 @@ http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstok
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000119.m3u8
 #EXTINF:-1 tvg-name="DOXTV" tvg-logo="https://dss1.baidu.com/70cFfyinKgQFm2e88IuM_a/forum/pic/item/f11f3a292df5e0fee8ac99f65e6034a85fdf7294.jpg" group-title="中数",DOXTV
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000078.m3u8
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="http://www.laonianfu.cc/skin/lnf/img/top_logo.jpg" group-title="",风云剧场频道
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000141.m3u8
+#EXTINF:-1 tvg-name="梨园频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/liyuanpindao.jpg" group-title="",梨园频道
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000098.m3u8
 #EXTINF:-1 tvg-name="SCTV2" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv2.jpg" group-title="本地频道",四川文化旅游
 http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190617_ubvkckj4_original_r10/c211_scc_20190617_ubvkckj4_original_r10.m3u8
 #EXTINF:-1 tvg-id="183" tvg-name="SCTV3" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv3.jpg" group-title="本地频道",四川经济
