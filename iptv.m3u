@@ -40,7 +40,7 @@ http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstok
 http://118.123.60.201:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=10&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="http://www.tvyan.com/uploads/dianshi/fyyy.jpg" group-title="中数",风云音乐频道
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000090.m3u8
-#EXTINF:-1 tvg-name="绵阳1-综合频道" tvg-language="Chinese" tvg-logo="http://www.66zhibo.net/d/file/2018/0725/small02aa1a75d5506089945702a559f99353.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",绵阳综合
+#EXTINF:-1 tvg-name="绵阳1-综合频道" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/mytv1.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",绵阳综合
 http://61.157.136.102:6680/rtmp/myzh.m3u8
 #EXTINF:-1 tvg-name="绵阳公共" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/mytv2.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",绵阳2-公共频道
 http://61.157.136.102:6680/rtmp/mygg.m3u8
