@@ -63,7 +63,7 @@ http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190617_ry4zkwol_original_r10/c2
 #EXTINF:-1 tvg-id="184" tvg-name="SCTV4" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv4.jpg" group-title="本地频道",四川新闻频道
 http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_o4cr4fzk_original_r10/c211_scc_20190618_o4cr4fzk_original_r10.m3u8
 #EXTINF:-1 tvg-id="185" tvg-name="SCTV5" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv5.jpg" group-title="本地频道",四川影视文艺
-http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=003&Provider_id=&Pcontent_id=index.m3u8
+http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_eqfvkj53_original_r10/c212_scc_20190618_eqfvkj53_original_r10.m3u8
 #EXTINF:-1 tvg-id="186" tvg-name="SCTV7" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv7.jpg" group-title="本地频道",四川妇女儿童
 http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
 #EXTINF:-1 tvg-id="188" tvg-name="SCTV9" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv9.jpg" group-title="本地频道",四川公共乡村
