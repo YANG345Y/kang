@@ -41,7 +41,7 @@ http://101.71.255.229:6610/zjhs/2/10046/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SL
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="http://www.tvyan.com/uploads/dianshi/fyyy.jpg" group-title="中数",风云音乐台
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000090.m3u8
 #EXTINF:-1 tvg-name="绵阳综合" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/mytv1.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",绵阳综合频道
-http://livecdn.myntv.cn/live/myzh.flv?wsSecret=4ECECA68E1D2408CC6C614E566DAE879&wsTime=5E464AE2
+
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvgefwq.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",高尔夫网球频道
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000088.m3u8
 #EXTINF:-1 tvg-name="绵阳科技" tvg-language="Chinese" tvg-logo="http://www.66zhibo.net/d/file/2018/0725/small9620b4e50bfa87af34c986e8d2da3601.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",绵阳科技频道
@@ -157,7 +157,7 @@ http://101.71.255.229:6610/zjhs/2/10011/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SL
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdsjc.jpg" group-title="港台",都市剧场台
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000102.m3u8
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="http://www.tvyan.com/uploads/dianshi/sjdl.jpg" group-title="中数",世界地理频道
-http://www.tvyan.com/uploads/dianshi/cctvgefwq.jpg
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000092.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://www.tvyan.com/uploads/dianshi/etnews.jpg" group-title="港台",东森新闻
 http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 tvg-id="310" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港台",中天新闻
