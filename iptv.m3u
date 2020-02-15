@@ -69,7 +69,7 @@ http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
 #EXTINF:-1 tvg-id="188" tvg-name="SCTV9" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv9.jpg" group-title="本地频道",四川公共乡村
 http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 #EXTINF:-1 tvg-id="189" tvg-name="SCTV8" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv8.jpg" group-title="本地频道",四川科教
-http://118.123.60.201:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=78&Provider_id=&Pcontent_id=index.m3u8
+http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_3yrf3z1p_original_r10/c211_scc_20190618_3yrf3z1p_original_r10.m3u8
 #EXTINF:-1 tvg-id="187" tvg-name="峨嵋电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/emeidianying.jpg" group-title="本地频道",峨眉电影台
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="http://www.tvyan.com/uploads/dianshi/jingbaotiyu.jpg" group-title="港台",劲爆体育频道
