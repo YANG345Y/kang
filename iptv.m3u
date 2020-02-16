@@ -162,10 +162,10 @@ http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstok
 http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 tvg-id="310" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港台",中天新闻
 http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="电影",电影轮播——金庸
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.cnpp.cn/upload/images/20161021/23352059098_207x90.gif" group-title="电影",NewTV惊悚悬疑
-
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="电影",电影轮播
+http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.cnpp.cn/upload/images/20161021/23352059098_207x90.gif" group-title="电影",电影
+http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="iHOT爱动漫" tvg-logo="http://static2.tvzhe.com/channel/logo/IHOT10.jpg?1" group-title="",iHOT爱动漫
 http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="iHOT爱院线" tvg-logo="http://static2.tvzhe.com/channel/logo/IHOT3.jpg?1" group-title="",iHOT爱院线
