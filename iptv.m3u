@@ -28,8 +28,6 @@ http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10070/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10070&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=3EHB23P52Y497YCVWKKVCCVNG9IN
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg" group-title="央视",CCTV-15音乐
 http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="" group-title="",黑莓电影频道
-http://39.135.34.150:18890/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzxt.jpg" group-title="港台",凤凰卫视资讯台
 
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0331/20140331102521820.jpg" group-title="央视",CCTV-5+体育赛事
@@ -42,24 +40,20 @@ http://101.71.255.229:6610/zjhs/2/10046/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SL
 http://weblive.hebtv.com/live/hbys_bq/index.m3u8
 #EXTINF:-1 tvg-name="重庆影视" tvg-logo="http://www.tvyan.com/uploads/dianshi/cqtvys.jpg" group-title="",重庆影视
 http://219.153.252.50/PLTV/88888888/224/3221225633/chunklist.m3u8
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="http://www.tvyan.com/uploads/dianshi/fyyy.jpg" group-title="中数",风云音乐台
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000090.m3u8
 #EXTINF:-1 tvg-name="绵阳综合" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/mytv1.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",绵阳综合频道
 http://CDN-out.iqy.sc96655.com/tslive/c214_scc_20190618_2arzouh1_original_r10/c214_scc_20190618_2arzouh1_original_r10.m3u8
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvgefwq.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",高尔夫网球频道
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000088.m3u8
 #EXTINF:-1 tvg-name="中江新闻综合" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/zhongjiangtai.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",中江新闻综合
-http://qkqxzb.qingk.cn/live/zhongjiangxwzh.flv
+
 #EXTINF:-1 tvg-name="江油新闻" tvg-language="Chinese" tvg-logo="http://imgsrc.baidu.com/forum/w%3D580/sign=558accff1230e924cfa49c397c096e66/174e510fd9f9d72a32dbc1ead92a2834359bbb88.jpg" tvg-country="CN" tvg-url="" group-title="本地频道",江油新闻综合
 rtmp://vod.scjygd.com:1935/live/xwzh
 #EXTINF:-1 tvg-id="88" tvg-name="怀旧剧场" tvg-language="Chinese" tvg-logo="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=d5d4c88824f5e0feee188e07645b5395/a8014c086e061d952fb0f0a972f40ad163d9caa9.jpg" group-title="",怀旧剧场台
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000089.m3u8
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="http://www.tvyan.com/uploads/dianshi/fyyy.jpg" group-title="中数",风云音乐台
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000090.m3u8
 #EXTINF:-1 tvg-name="中国交通四川" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctbn.jpg" group-title="中数",中国交通四川频道
-http://tv.lanjingfm.com/cctbn/sichuan.m3u8
-#EXTINF:-1 tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",南方卫视
-http://39.135.34.150:18890/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619
-#EXTINF:-1 tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="",星空卫视
-https://116.77.72.195/streams/d/xkws/playlist.m3u8
+
 #EXTINF:-1 tvg-name="SCTV2" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv2.jpg" group-title="本地频道",四川文化旅游
 http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190617_ubvkckj4_original_r10/c211_scc_20190617_ubvkckj4_original_r10.m3u8
 #EXTINF:-1 tvg-id="183" tvg-name="SCTV3" tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv3.jpg" group-title="本地频道",四川经济
@@ -78,6 +72,8 @@ http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_3yrf3z1p_original_r10/c2
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="http://www.tvyan.com/uploads/dianshi/jingbaotiyu.jpg" group-title="港台",劲爆体育频道
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000078.m3u8
+#EXTINF:-1 tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",南方卫视
+http://39.135.34.150:18890/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://101.71.255.229:6610/zjhs/2/10023/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10023&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=3EHB23P52Y497YCVWKKVCCVNG9IN
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/beijingtv.jpg" group-title="卫视",北京卫视
@@ -86,8 +82,6 @@ http://101.71.255.229:6610/zjhs/2/10005/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SL
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000094.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/chchd.jpg" group-title="电影",CHC高清电影台
 http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="http://www.tvyan.com/uploads/dianshi/shenghuoshishang.jpg" group-title="电影",生活时尚台
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000107.m3u8
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvdszn.jpg" group-title="电影",电视指南频道
 http://101.71.255.229:6610/zjhs/2/10069/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10007&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=3EHB23P52Y497YCVWKKVCCVNG9IN&ts=1553494909
 #EXTINF:-1 tvg-id="60" tvg-name="教育1台" tvg-logo="http://tv.sason.xyz/logo/cetv1.png" group-title="专业频道",中国教育1台
@@ -102,6 +96,8 @@ http://101.71.255.229:6610/zjhs/2/10009/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SL
 http://cstvpull.live.wscdns.com/live/xiamen.flv
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="http://www.tvyan.com/uploads/dianshi/fxzl.jpg" group-title="卫视",发现之旅频道
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000120.m3u8
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="http://www.tvyan.com/uploads/dianshi/shenghuoshishang.jpg" group-title="电影",生活时尚台
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000107.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/anhuitv.jpg" group-title="卫视",安徽卫视
 http://101.71.255.229:6610/zjhs/2/10003/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10003&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=3EHB23P52Y497YCVWKKVCCVNG9IN
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/heilongjiangtv.jpg" group-title="卫视",黑龙江卫视
@@ -162,6 +158,8 @@ http://101.71.255.229:6610/zjhs/2/10011/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SL
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000102.m3u8
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="http://www.tvyan.com/uploads/dianshi/sjdl.jpg" group-title="中数",世界地理频道
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000092.m3u8
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="",星空卫视
+https://116.77.72.195/streams/d/xkws/playlist.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://www.tvyan.com/uploads/dianshi/etnews.jpg" group-title="港台",东森新闻
 http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 tvg-id="310" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港台",中天新闻
@@ -175,4 +173,6 @@ http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-name="iHOT爱院线" tvg-logo="http://static2.tvzhe.com/channel/logo/IHOT3.jpg?1" group-title="",iHOT爱院线
 http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="" tvg-logo="https://image.cnpp.cn/upload/images/20161021/23352059098_207x90.gif" group-title="电影",NewTV动作电影
-http://39.135.36.146:18890/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389
+http://39.135.34.150:18890/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="" group-title="",黑莓电影频道
+http://39.135.34.150:18890/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664
