@@ -168,6 +168,8 @@ https://116.77.72.195/streams/d/xkws/playlist.m3u8
 
 #EXTINF:-1 tvg-id="310" tvg-name="凤凰电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhdyt.jpg" group-title="港台",凤凰卫视电影台
 https://116.77.72.195/streams/d/fhdy/playlist.m3u8
+#EXTINF:-1 tvg-name="StarSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="港台",StarSports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="电影",电影轮播
 http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="电影",电影
