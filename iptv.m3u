@@ -32,7 +32,7 @@ http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://liveali.ifeng.com/live/FHZX.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0331/20140331102521820.jpg" group-title="央视",CCTV-5+体育赛事
 http://39.135.34.150:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://www.66zhibo.net/d/file/2019/0801/small72b8227d926ddc9726b07c21f56522a6.jpg" group-title="央视",CCTV-17农业农村
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://www.66zhibo.net/d/file/2019/0801/smalld60aab9ff3474e9a0a6a7dbcc8d397111564664257.jpg" group-title="央视",CCTV-17农业农村
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000169.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/sichuantv.jpg" group-title="卫视",四川卫视
 http://101.71.255.229:6610/zjhs/2/10046/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10046&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=3EHB23P52Y497YCVWKKVCCVNG9IN
@@ -78,7 +78,7 @@ http://101.71.255.229:6610/zjhs/2/10005/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SL
 http://101.71.255.229:6610/zjhs/2/10013/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10013&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=3EHB23P52Y497YCVWKKVCCVNG9IN
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/fujiantv.jpg" group-title="卫视",福建东南台
 http://101.71.255.229:6610/zjhs/2/10093/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="http://www.cctv.com/cdm/20070829/images/100962_1188348719666.jpg" group-title="专业频道", 风云剧场台
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0401/20140401122101949.jpg" group-title="专业频道", 风云剧场台
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000094.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="CHC高清电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/chchd.jpg" group-title="电影",CHC高清电影台
 http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8
@@ -182,5 +182,5 @@ http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://39.135.34.150:18890/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/huabiaojiang.jpg" group-title="",黑莓电影频道
 http://39.135.34.150:18890/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0111/20140111102142606.jpg" group-title="",央视新闻高清频道
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://www.bigaovi.com/uploadfiles/201910/20191011185720952095.png" group-title="",央视新闻高清频道
 http://119.167.204.73/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
