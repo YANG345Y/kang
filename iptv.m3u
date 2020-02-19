@@ -23,7 +23,7 @@ http://39.135.34.150:18890/000000001000/1000000002000019789/1.m3u8?channel-id=ys
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv12.jpg" group-title="央视",CCTV-12社会与法
 http://101.71.255.229:6610/zjhs/2/10071/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10071&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=3EHB23P52Y497YCVWKKVCCVNG9IN
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv13.jpg" group-title="央视",CCTV-13新闻
-http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://119.167.204.73/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
 http://101.71.255.229:6610/zjhs/2/10070/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10070&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=3EHB23P52Y497YCVWKKVCCVNG9IN
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg" group-title="央视",CCTV-15音乐
@@ -182,3 +182,5 @@ http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://39.135.34.150:18890/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/huabiaojiang.jpg" group-title="",黑莓电影频道
 http://39.135.34.150:18890/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0111/20140111102142606.jpg" group-title="",央视新闻高清频道
+http://119.167.204.73/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
