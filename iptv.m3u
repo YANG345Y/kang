@@ -170,9 +170,9 @@ http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstok
 https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="http://www.tvyan.com/uploads/dianshi/quanjishi.jpg" group-title="专业频道",全纪实
 http://CDN-out.iqy.sc96655.comtslive/c214_scc_20190618_v5ehytok_original_r10/c214_scc_20190618_v5ehytok_original_r10.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cabletv41.jpg" group-title="电影",电影轮播
+#EXTINF:-1 tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cabletv41.jpg" group-title="电影",电影轮播台1
 http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdianying.jpg" group-title="电影",电影
+#EXTINF:-1 tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdianying.jpg" group-title="电影",电影轮播台2
 http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-name="iHOT爱动漫" tvg-logo="http://static2.tvzhe.com/channel/logo/IHOT10.jpg?1" group-title="",iHOT爱动漫频道
 http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
