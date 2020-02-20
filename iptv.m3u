@@ -160,7 +160,7 @@ http://101.71.255.229:6610/zjhs/2/10015/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SL
 http://101.71.255.229:6610/zjhs/2/10011/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10011&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=3EHB23P52Y497YCVWKKVCCVNG9IN
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvdszn.jpg" group-title="电影",电视指南频道
 http://101.71.255.229:6610/zjhs/2/10069/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10007&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=3EHB23P52Y497YCVWKKVCCVNG9IN&ts=1553494909
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="http://www.tvyan.com/uploads/dianshi/sjdl.jpg" group-title="中数",世界地理频道
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="中数",世界地理频道
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000092.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://www.tvyan.com/uploads/dianshi/jade.jpg" group-title="港台",TVB翡翠台
 https://116.77.72.195/streams/d/fct/playlist.m3u8
