@@ -85,7 +85,7 @@ http://CDN-out.iqy.sc96655.com/tslive/c211_scc_20190618_ek4k254b_original_r10/c2
 #EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/chcjtyy.jpg" group-title="电影",CHC家庭影院台
 http://CDN-out.iqy.sc96655.com/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20190618_q0ktot1t_original_r10.m3u8
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="http://tv.sason.xyz/logo/cetv1.png" group-title="专业频道",中国教育1台
-http://39.135.34.150:18890/000000001000/1000000002000027253/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027253
+http://CDN-out.iqy.sc96655.com/tslive/c213_scc_20190618_hckfiiqn_original_r10/c213_scc_20190618_hckfiiqn_original_r10.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://101.71.255.229:6610/zjhs/2/10059/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10059&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=3EHB23P52Y497YCVWKKVCCVNG9IN
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
